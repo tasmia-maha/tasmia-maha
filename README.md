@@ -1,16 +1,28 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/banner.png" width="100%" />
+</p>
+<h1 align="center">Hi 👋, I'm Mst Tasmia Akter</h1>
 
-<!--
-**tasmia-maha/tasmia-maha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+CSE Student | Frontend Developer in Progress
+</h3>
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a CSE student currently exploring web development and
+building my foundation in frontend technologies.
+
+I enjoy learning by building projects, practicing problem-solving,
+and exploring new technologies.
+
+Currently, I'm focusing on JavaScript, React, TypeScript,
+Git & GitHub, and cybersecurity fundamentals.
+
+## 🚀 Currently
+
+- 🌱 Learning React and TypeScript
+- 💻 Building small frontend projects
+- 🎨 Exploring Figma and UI design
+- 🔐 Exploring cybersecurity fundamentals
+- 🧠 Practicing C and problem-solving
+- 📚 Improving my Git & GitHub workflow
