@@ -26,3 +26,9 @@ Git & GitHub, and cybersecurity fundamentals.
 - 🔐 Exploring cybersecurity fundamentals
 - 🧠 Practicing C and problem-solving
 - 📚 Improving my Git & GitHub workflow
+
+<h2>🛠️ Skills</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,html,css,tailwind,js,ts,react,git,github,figma" />
+</p>
