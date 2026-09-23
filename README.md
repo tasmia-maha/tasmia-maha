@@ -32,3 +32,14 @@ Git & GitHub, and cybersecurity fundamentals.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,html,css,tailwind,js,ts,react,git,github,figma" />
 </p>
+
+<h2>🌐 Connect With Me</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mst-tasmia-akter-0743763b6/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+  <a href="mailto:tasmiamaha2k5@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  </a>
+</p>
